@@ -22,3 +22,6 @@ ul { padding-left: 22px; }
 li { margin-bottom: 6px; }
 a { color: var(--accent); }
 .meta { color: var(--muted); font-size: 14px; }
+.store { margin-top: 24px; }
+.store a { display: inline-block; }
+.store img { display: block; height: 48px; width: auto; }
